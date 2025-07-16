@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Cortes
 
-🎓 Junior Software Engineer @ CASSINI | Data Science & Software Engineering Student at Polytech Annecy-Chambéry
+🎓 Junior Data Engineer @ CASSINI | Data Science & Software Engineering Student at Polytech Annecy-Chambéry
 
 ---
 
