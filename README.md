@@ -1,49 +1,54 @@
 # 👋 Hi, I'm Carlos Cortes
 
-🎓 Junior Data Engineer @ CASSINI | Data Science & Software Engineering Student at Polytech Annecy-Chambéry
+**Junior Data & ML Engineer | Geospatial & AI Applications**
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
-I'm a Bolivian-Spanish software engineer passionate about data science, maps, and machine learning. My journey began at INSA Lyon in mechanical engineering, but my curiosity for programming and AI led me to pivot into IT.
+I’m a Bolivian-Spanish data & software engineer passionate about **turning raw data into actionable insights**.  
+I recently completed my engineering degree in **Computer Science – Data Uses (IDU)** at **Polytech Annecy-Chambéry** and a year-long **apprenticeship at Cassini Conseil (Paris)**, where I built **data pipelines, interactive cartographic dashboards, and RAG/LLM-powered tools** for geopolitical analysis.
 
-Since 2022, I’ve been studying data science and software engineering at Polytech Annecy-Chambéry, while working as a Junior Software Engineer at Cassini Conseil, where I build interactive dashboards and geospatial tools for geopolitical analysis.
-
-My work spans a range of topics including:
-- Interactive cartography with **Mapbox**, **D3.js**, and **dc.js**
-- Machine learning pipelines for satellite image processing (**SAR**, wet snow detection)
-- Full-stack development using **React**, **Node.js**, **MongoDB**, and **Python**
+I’m currently looking for opportunities in **Machine Learning, Data Engineering, and Applied AI**.
 
 ---
 
-## 🔧 Technical Skills
+## 🔑 Key Skills
 
-- **Languages**: Python, JavaScript, TypeScript, Java, SQL
-- **Frameworks & Tools**: React, Node.js, Express, Flask, Docker, Git, Luigi
-- **Data & ML**: Pandas, Scikit-learn, TensorFlow, PyTorch, HuggingFace Transformers
-- **Geospatial**: Mapbox GL JS, D3.js, dc.js, GeoJSON
-- **Cloud & DevOps**: Docker, GitHub Actions, Firebase
-- **Languages**: 🇫🇷 French, 🇪🇸 Spanish (native), 🇬🇧 English (fluent)
-
----
-
-## 📌 Featured Projects
-
-- 🛰️ [ML-WetSnowSAR_pipeline](https://github.com/cortesmc/ML-WetSnowSAR_pipeline) – Machine learning for wet snow detection using SAR satellite images.
-- 🗺️ [Map-based geopolitical dashboard](https://github.com/cortesmc?tab=repositories&q=map&type=all&language=&sort=) – Interactive map + graph dashboard with dynamic filtering and cluster spiderfication.
-- 🤖 [LLM MCQ Solver](https://github.com/cortesmc/LLM-MCQ-MedicalQA) – Answering medical domain multiple choice questions using fine-tuned compact LLMs.
-- 🔬 [Fire Correlation Study](https://github.com/cortesmc/DATA731_correlation_fire_study) – Environmental factors and wildfires analysis.
+- **Programming:** Python, JavaScript / TypeScript, SQL  
+- **Data & ML:** Pandas, Scikit-learn, PyTorch, Hugging Face, LangChain, RAG pipelines  
+- **Visualization & Geospatial:** Mapbox GL JS, D3.js, dc.js, Crossfilter, GeoJSON  
+- **Backend & DevOps:** FastAPI, Node.js, Docker, GitHub Actions, REST APIs  
+- **Data Engineering:** ETL pipelines, scraping (Selenium, APIs), Chroma DB  
+- **Other:** React, Luigi, Jupyter, Linux  
+- **Languages:** 🇬🇧 English (fluent) | 🇫🇷 French (professional) | 🇪🇸 Spanish (native)
 
 ---
 
-## 🌍 Let's Connect
+## 📂 Selected Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlosandrescor/)
-- 📬 Email: carlosandres149@gmail.com
-- 🌐 Website: (coming soon)
+- 🗺️ **[Sentinel-1 Image Processing Application](https://github.com/cortesmc/Sentinel1_images_processing)**  
+  Interactive map with integrated tools to analyze Sentinel-1 satellite images.
+
+- 🤖 **[LLM RAG Pipelines](https://github.com/cortesmc/pipelines_openWebUI)**  
+  End-to-end pipelines using **LangChain + Ollama + Chroma** for retrieval-augmented question answering.
+
+- 🛰️ **[ML-WetSnowSAR](https://github.com/cortesmc/ML-WetSnowSAR_pipeline)**  
+  Machine-learning models for wet-snow detection using SAR satellite imagery.
+
+- 🔎 **[Compact LLM MCQ Evaluation for Medical QA](https://github.com/cortesmc/compact-llm-mcq-evaluation)**  
+  Fine-tuning and evaluation of compact LLMs to answer multiple-choice questions in medical and nursing tests.
+
+> Explore more in my [Repositories](https://github.com/cortesmc?tab=repositories).
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlosandrescor/)  
+- 📧 [carlosandres149@gmail.com](mailto:carlosandres149@gmail.com)  
+- 🌍 Personal website: *(coming soon)*
 
 ---
 
 > “Technology is best when it brings people together.” — Matt Mullenweg
-
