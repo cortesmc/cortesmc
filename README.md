@@ -1,58 +1,104 @@
-# 👋 Hi, I'm Carlos Cortes
+# Carlos Andres Cortes Miranda
 
-<<<<<<< HEAD
-**Junior Data & ML Engineer | Geospatial & AI Applications**
-=======
-🎓 Junior Software Engineer @ PricingHub | Data Science & Software Engineering Student at Polytech Annecy-Chambéry
->>>>>>> 7df397a (Update experience)
+**Data Engineer @ PricingHUB**  
+AI Systems • LLM Pipelines • Scalable Data Infrastructure  
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I’m a Bolivian-Spanish data & software engineer passionate about **turning raw data into actionable insights**.  
-I recently completed my engineering degree in **Computer Science – Data Uses (IDU)** at **Polytech Annecy-Chambéry** and a year-long **apprenticeship at Cassini Conseil (Paris)**, where I built **data pipelines, interactive cartographic dashboards, and RAG/LLM-powered tools** for geopolitical analysis.
+I am a Data Engineer specializing in building **end-to-end data systems** and **AI-driven pipelines**.
 
-I’m currently looking for opportunities in **Machine Learning, Data Engineering, and Applied AI**.
+My work focuses on designing reliable data workflows, from large-scale data extraction and transformation to machine learning and LLM-based applications. I have experience working with production-grade pipelines, geospatial data systems, and retrieval-augmented generation (RAG).
 
----
-
-## 🔑 Key Skills
-
-- **Programming:** Python, JavaScript / TypeScript, SQL  
-- **Data & ML:** Pandas, Scikit-learn, PyTorch, Hugging Face, LangChain, RAG pipelines  
-- **Visualization & Geospatial:** Mapbox GL JS, D3.js, dc.js, Crossfilter, GeoJSON  
-- **Backend & DevOps:** FastAPI, Node.js, Docker, GitHub Actions, REST APIs  
-- **Data Engineering:** ETL pipelines, scraping (Selenium, APIs), Chroma DB  
-- **Other:** React, Luigi, Jupyter, Linux  
-- **Languages:** 🇬🇧 English (fluent) | 🇫🇷 French (professional) | 🇪🇸 Spanish (native)
+I aim to build systems that are **scalable, maintainable, and grounded in real-world use cases**.
 
 ---
 
-## 📂 Selected Projects
+## Experience
 
-- 🗺️ **[Sentinel-1 Image Processing Application](https://github.com/cortesmc/Sentinel1_images_processing)**  
-  Interactive map with integrated tools to analyze Sentinel-1 satellite images.
+### PricingHUB — Data Engineer
+- Develop and maintain **production ETL pipelines** for large-scale retail data
+- Build and operate web scraping systems (Zyte, Oxylabs)
+- Design data workflows using **Airflow, Kubernetes, Docker**
+- Store and process data with **PostgreSQL / TimescaleDB and MinIO**
+- Implement data validation and monitoring systems
 
-- 🤖 **[LLM RAG Pipelines](https://github.com/cortesmc/pipelines_openWebUI)**  
-  End-to-end pipelines using **LangChain + Ollama + Chroma** for retrieval-augmented question answering.
+### CASSINI — Data Engineer
+- Built **RAG pipelines** using LangChain, LightRAG, Ollama, and ChromaDB
+- Developed **LLM-based analysis tools** for structured geopolitical reports
+- Designed **interactive geospatial dashboards** (Mapbox GL JS, D3.js, dc.js)
+- Implemented clustering, graph exploration, and data filtering systems
+- Deployed applications with FastAPI, Docker, and Electron
 
-- 🛰️ **[ML-WetSnowSAR](https://github.com/cortesmc/ML-WetSnowSAR_pipeline)**  
-  Machine-learning models for wet-snow detection using SAR satellite imagery.
+### LISTIC — Python Developer
+- Developed ML pipelines for **wet snow detection (SAR satellite data)**
+- Benchmarked and validated multiple machine learning models
 
-- 🔎 **[Compact LLM MCQ Evaluation for Medical QA](https://github.com/cortesmc/compact-llm-mcq-evaluation)**  
-  Fine-tuning and evaluation of compact LLMs to answer multiple-choice questions in medical and nursing tests.
-
-> Explore more in my [Repositories](https://github.com/cortesmc?tab=repositories).
+### Nennisiwok AI Lab — Data Science Intern
+- Built forecasting systems (ARIMA, Prophet, PySpark)
+- Developed churn prediction models (deep learning)
+- Designed time-series analysis tools for decision support
 
 ---
 
-## 📫 Get in Touch
+## Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlosandrescor/)  
-- 📧 [carlosandres149@gmail.com](mailto:carlosandres149@gmail.com)  
-- 🌍 Personal website: *(coming soon)*
+**Languages**  
+Python, SQL, JavaScript, TypeScript, java, R  
+
+**Data Engineering**  
+Airflow, Docker, Kubernetes, FastAPI, Pandas, DuckDB, numpy, Spark  
+
+**Machine Learning / AI**  
+Scikit-learn, PyTorch, TensorFlow, LangChain, ChromaDB, Ollama  
+
+**Visualization & Frontend**  
+React, D3.js, dc.js, Mapbox GL JS, tableau, dataset  
+
+**Data Storage**  
+PostgreSQL, TimescaleDB, MinIO    
 
 ---
 
-> “Technology is best when it brings people together.” — Matt Mullenweg
+## Projects
+
+### ML-WetSnowSAR Pipeline  
+Machine learning pipeline for detecting wet snow using SAR satellite data.  
+Includes preprocessing, benchmarking, and evaluation workflows.
+
+### RAG Pipeline for Analytical Reports  
+End-to-end system for processing structured French reports using LLMs:
+- Document parsing  
+- Embeddings (Ollama)  
+- Retrieval (ChromaDB)  
+- Generation (LangChain)  
+
+### Geospatial Dashboard Platform  
+Interactive data platform combining:
+- Map visualization (Mapbox GL JS)  
+- Graph exploration (D3 / ForceGraph)  
+- Crossfilter-based analytics  
+
+### LLM MCQ Evaluation  
+Evaluation of compact LLMs on domain-specific multiple-choice questions, including fine-tuning and performance benchmarking.
+
+---
+
+## Other Work
+
+You can explore all my projects here:  
+👉 https://github.com/cortesmc?tab=repositories
+
+They include work on:
+- Topic classification (NLP)
+- Hadoop / distributed systems
+- Web applications (PHP, Java, JS)
+- Experimental ML pipelines
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/carlosandrescor
+- Email: carlosandres149@gmail.com
