@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Carlos Cortes
 
+<<<<<<< HEAD
 **Junior Data & ML Engineer | Geospatial & AI Applications**
+=======
+🎓 Junior Software Engineer @ PricingHub | Data Science & Software Engineering Student at Polytech Annecy-Chambéry
+>>>>>>> 7df397a (Update experience)
 
 ---
 
